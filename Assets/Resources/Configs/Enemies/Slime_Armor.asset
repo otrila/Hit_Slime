@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7840b2f5a622042558e88e39715ebd70, type: 3}
+  m_Name: Slime_Armor
+  m_EditorClassIdentifier: 
+  _health: 2
+  _timeLive: 9
+  _model: {fileID: 1461105302269132767, guid: bbc0cd1c9822c4ab98d8e6915ba62dab, type: 3}
+  _dieParticle: {fileID: 1045254504185627285, guid: d7989591503584452944f081ac582ca9, type: 3}
+  _escapeParticle: {fileID: 8063577008295673756, guid: 362b960266aa64a49a5d97ee4f62065e, type: 3}
